@@ -2,9 +2,9 @@
 # Jonathan Macoco's UX Portfolio
 
 
-## UX Team Project
-
-
 ## UX Journal
 
 [Journal Entry 1](j01/)
+
+
+## UX Team Project
