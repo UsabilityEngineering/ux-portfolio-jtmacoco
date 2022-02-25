@@ -1,6 +1,6 @@
 # Spotify - user experience
 ## By Jonathan Macoco
-## Febuary 24, 2022
+### Febuary 24, 2022
 [Home](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)
  ![spotify](spotify.png)
  <p> I personally use Spotify most of the time when I play music. I would say that it is a fairly good design with some minor issues. When you first log in you have three main options at the bottom plus the latest song that you have just listened to. </p>
