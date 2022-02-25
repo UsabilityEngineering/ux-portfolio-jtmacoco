@@ -1,4 +1,7 @@
-# First Journal Entry...
+# Spotify - user experience
+##By Jonathan Macoco
+##Febuary 24, 2022
+[Home](https://usabilityengineering.github.io/ux-portfolio-jtmacoco/)
  ![spotify](spotify.png)
  <p> I personally use Spotify most of the time when I play music. I would say that it is a fairly good design with some minor issues. When you first log in you have three main options at the bottom plus the latest song that you have just listened to. </p>
   <p> This toolbar is minimalist yet <b>efficient</b> as the user isn’t overloaded with the tools at hands such as home, search, and your library. Although as for the rest of the screen it is a fairly decent design I would say that it does have a lot of <b>noise</b>. I would say that this is especially bad on the home page and search page as there are so many buttons to click which can lead to users clicking on the wrong button. I would say that they could use a few fewer buttons to help with this issue. This can be very annoying for people who use this on the go as it results in them having to correct an error. Another point that I would like to add is <b>error tolerance</b>. </p>
