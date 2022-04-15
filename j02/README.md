@@ -10,7 +10,7 @@
   
   **Safety** and Privacy for youtube can be a bit troublesome as most users’ feed is based on who they’re subscribed to, liked videos, etc. What youtube does offer in terms of privacy can be seen within the settings tab. Here users can hide who they’re subscribed to and hide playlists from other users. Youtube does have a pretty good **safety* for kids as in the settings tab parents can set up youtube for kids. This is a separate application but it’s pretty much the same as youtube. Youtube kids allow parents to block and share content with their kids. This a great for parents as it allows them to monitor their children on what they can watch. 
   
-  Overall I think that youtube has a great user experience. I think that youtube is one of the most **efficient* applications that allows users to watch videos for entertainment or as a learning source. Youtube also has a great **error tolerance** along with fairly good **safety**. I personally use youtube quite often and would say it’s a great application with a good user experience. 
+  Overall I think that youtube has a great user experience. I think that youtube is one of the most **efficient** applications that allows users to watch videos for entertainment or as a learning source. Youtube also has a great **error tolerance** along with fairly good **safety**. I personally use youtube quite often and would say it’s a great application with a good user experience. 
 
   
 [Home](../)
